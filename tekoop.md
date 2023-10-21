@@ -1,4 +1,14 @@
-# Intro
+# Table of Contents
+* [Intro](#intro)
+* [Mortgage](#mortgage)
+* [Property search](#property-search)
+* [Viewings](#viewings)
+* [Bidding/negotiating](#bidding/negotiating)
+* [Mortgage application](#mortgage-application)
+* [Completion/key transfer](#completion/key-transfer)
+* [Closing thoughts](#closing-thoughts)
+
+## Intro
 
 Market is still going up.
 Overbidding is not uncommon nowadays.
@@ -16,7 +26,7 @@ full ownership vs leasehold
 Tussenwoning price is less than standalone(vrijstaand) house prices.
 But apartments have the lowest prices usually.
 
-# Mortgage
+## Mortgage
 What is my max. mortgage? bonuses, holiday allowance can be used for the calculation.
 For how long do I plan to be in the Netherlands?
 'Average' price for selling a house in NL: 405k euro.
@@ -28,7 +38,7 @@ If I am
 
 then I won't have to pay transfer tax.
 
-# Property search
+## Property search
 Funda is the most popular platform. But it is not so up-to-date.
 More up-to-date options:
 * social platforms of the broker
@@ -40,7 +50,7 @@ Tips for Funda:
 * filter for only the absolutely necessary requirements
 * overall: be inclusive with your search
 
-# Viewings
+## Viewings
 Contact real estate agent
 * via phone
 * in the morning
@@ -52,7 +62,7 @@ At the viewing:
 * have a walkby before to get familiarized with the neighborhood
 * ask for taking pictures
 
-# Bidding/negotiating
+## Bidding/negotiating
 Sometimes there is a deadline for bidding.
 Usually, it is a one-time offer, which is either accepted or rejected.
 Have to agree on
@@ -64,7 +74,7 @@ Have to agree on
 Verbal agreement is not legally binding, so I can say 'yes' to multiple apartments.
 Although it is not nice, and not recommended.
 
-# Mortgage application
+## Mortgage application
 Usually the interest rates are higher at bigger banks.
 Fixing the interest rate for a very long period is not a good idea now.
 Linear vs annuity payments.
@@ -79,7 +89,7 @@ Annuity mortgage: gross monthly amount is stable <- does it mean fixed?
 Interest rate is tax deductable.
 Interest rate is around 4.04% with 10 years fixed.
 
-# Completion/key transfer
+## Completion/key transfer
 Final inspection
 * meters are checked and agreed
 * gas/water/electricity/internet are there and working
@@ -92,7 +102,7 @@ Scratches etc. have to be fixed if they were not here during the viewing (that i
 Building insurance is mandatory.
 One becomes the owner when he/she receives the keys.
 
-# Closing thoughts
+## Closing thoughts
 Bidding should be close to the valuation price.
 Mortgage advising: 1st appointment is free!
 Technical inspection is not really needed for apartments, since they are usually new.
