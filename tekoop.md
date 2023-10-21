@@ -3,9 +3,9 @@
 * [Mortgage](#mortgage)
 * [Property search](#property-search)
 * [Viewings](#viewings)
-* [Bidding/negotiating](#bidding/negotiating)
+* [Bidding/negotiating](#biddingnegotiating)
 * [Mortgage application](#mortgage-application)
-* [Completion/key transfer](#completion/key-transfer)
+* [Completion/key transfer](#completionkey-transfer)
 * [Closing thoughts](#closing-thoughts)
 
 ## Intro
