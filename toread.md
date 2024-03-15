@@ -1,3 +1,7 @@
-[Graphics Programming Black Book](https://www.jagregory.com/abrash-black-book/)
+# Table of Contents
+* [Programming](#programming)
 
-[What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+## Programming
+
+* [Graphics Programming Black Book](https://www.jagregory.com/abrash-black-book/)
+* [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
