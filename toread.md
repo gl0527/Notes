@@ -1,5 +1,6 @@
 # Table of Contents
 * [Programming](#programming)
+* [Soft skills](#soft-skills)
 
 ## Programming
 
@@ -8,3 +9,7 @@
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
 * [Graphics Programming Black Book](https://www.jagregory.com/abrash-black-book/)
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) [PDF]
+
+## Soft skills
+
+* [Staff engineering](https://staffeng.com/guides/)
