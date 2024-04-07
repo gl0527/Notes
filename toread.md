@@ -1,6 +1,11 @@
 # Table of Contents
+* [Math](#math)
 * [Programming](#programming)
 * [Soft skills](#soft-skills)
+
+## Math
+
+* [Linear Algebra Done Right](https://linear.axler.net/LADR4e.pdf) [PDF]
 
 ## Programming
 
