@@ -6,6 +6,7 @@
 ## Math
 
 * [Linear Algebra Done Right](https://linear.axler.net/LADR4e.pdf) [PDF]
+* [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW_2017-09-04.pdf) [PDF]
 
 ## Programming
 
