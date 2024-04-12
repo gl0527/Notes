@@ -15,6 +15,7 @@
 * [Game Engine Architecture](https://www.latexstudio.net/wp-content/uploads/2014/12/Game_Engine_Architecture-en.pdf) [PDF]
 * [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
 * [Graphics Programming Black Book](https://www.jagregory.com/abrash-black-book/)
+* [Physically Based Rendering (Fourth Edition)](https://www.pbr-book.org/4ed/contents)
 * [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) [PDF]
 * [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/800-7895/800-7895.pdf) [PDF]
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) [PDF]
