@@ -22,5 +22,5 @@
 
 ## Soft skills
 
-* [Don't Just Roll The Dice](https://neildavidson.com/downloads/dont-just-roll-the-dice-2.0.0.pdf)
+* [Don't Just Roll The Dice](https://neildavidson.com/downloads/dont-just-roll-the-dice-2.0.0.pdf) [PDF]
 * [Staff engineering](https://staffeng.com/guides/)
