@@ -5,6 +5,7 @@
 
 ## Math
 
+* [An Introduction to Game Theory](https://mathematicalolympiads.wordpress.com/wp-content/uploads/2012/08/martin_j-_osborne-an_introduction_to_game_theory-oxford_university_press_usa2003.pdf) [PDF]
 * [Linear Algebra Done Right](https://linear.axler.net/LADR4e.pdf) [PDF]
 * [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW_2017-09-04.pdf) [PDF]
 
