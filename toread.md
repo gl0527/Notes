@@ -26,3 +26,7 @@
 
 * [Don't Just Roll The Dice](https://neildavidson.com/downloads/dont-just-roll-the-dice-2.0.0.pdf) [PDF]
 * [Staff engineering](https://staffeng.com/guides/)
+
+## Other
+
+* [Kertmagyarország felé](https://mtda.hu/books/somogyi_imre_kertmagyarorszag_fele.pdf) [PDF]
