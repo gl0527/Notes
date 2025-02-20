@@ -2,6 +2,7 @@
 * [Math](#math)
 * [Programming](#programming)
 * [Soft skills](#soft-skills)
+* [Other](#other)
 
 ## Math
 
