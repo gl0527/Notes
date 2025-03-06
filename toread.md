@@ -31,3 +31,4 @@
 ## Other
 
 * [Kertmagyarország felé](https://mtda.hu/books/somogyi_imre_kertmagyarorszag_fele.pdf) [PDF]
+* [Magyarországi sámánperek jegyzőkönyvei a Kassai - kódexben](http://www.napturul.hu/letoltesek/samanperekjegyzokonyvei.pdf) [PDF]
