@@ -34,3 +34,4 @@
 * [Kertmagyarország felé](https://mtda.hu/books/somogyi_imre_kertmagyarorszag_fele.pdf) [PDF]
 * [Magyarországi sámánperek jegyzőkönyvei a Kassai - kódexben](http://www.napturul.hu/letoltesek/samanperekjegyzokonyvei.pdf) [PDF]
 * [Ökofalu, családi birtok – Oroszország határain innen és túl](https://epa.oszk.hu/01700/01739/00089/pdf/EPA01739_eszmelet_2014_104_nyomdai_141-158.pdf) [PDF 141-158]
+* [Bornemissza Anna szakácskönyve 1680-ból](http://www.tyukos.ingyenweb.hu/keret.cgi?/oldalak/bornemisza/index.htm)
