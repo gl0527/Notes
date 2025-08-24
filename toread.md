@@ -31,6 +31,7 @@
 ## Other
 
 * [A halott orvosok nem hazudnak](https://www.eletesegeszseg.com/uploads/2/6/1/1/26113502/a_halott_orvosok_nem_hazudnak_.pdf) [PDF]
+* [Bepakolás lista nyárra](https://sielok.hu/files/bepakolaslista-nyarra.pdf) [PDF]
 * [Bornemissza Anna szakácskönyve 1680-ból](http://www.tyukos.ingyenweb.hu/keret.cgi?/oldalak/bornemisza/index.htm)
 * [Kertmagyarország felé](https://mtda.hu/books/somogyi_imre_kertmagyarorszag_fele.pdf) [PDF]
 * [Magyarországi sámánperek jegyzőkönyvei a Kassai - kódexben](http://www.napturul.hu/letoltesek/samanperekjegyzokonyvei.pdf) [PDF]
